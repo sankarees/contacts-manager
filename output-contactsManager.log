@@ -1,0 +1,13 @@
+D:\software\jdk_18\bin\java.exe -javaagent:D:\software\ideaIC-2024.3.5.win\lib\idea_rt.jar=60659 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\github_work\contacts-manager\out\production\contacts-manager com.techgurug.contacts.ContactsManager
+=== Displaying Contact Details ===
+Employee: Alice Smith, Age: 30, Phone: +91-9000000001, Employee ID: EMP001, Department: Engineering
+Student: Bob Johnson, Age: 22, Phone: +91-9000000002, Student ID: STU123, Course: Computer Science
+Politician: Charlie Brown, Age: 55, Phone: +91-9000000003, Party: Democratic Party, Position: Senator
+Employee: David Miller, Age: 40, Phone: +91-9000000004, Employee ID: EMP002, Department: Marketing
+Student: Eva Green, Age: 21, Phone: +91-9000000005, Student ID: STU456, Course: Biology
+Politician: Frank White, Age: 60, Phone: +91-9000000006, Party: Republic Party, Position: Governor
+
+=== Displaying Full Details for Base Person ===
+Person Details [Full]: Name: Diana Prince, Age: 28, Phone: +91-9000000000
+
+Process finished with exit code 0
